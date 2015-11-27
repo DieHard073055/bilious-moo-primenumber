@@ -1,2 +1,8 @@
-# bilious-moo-primenumber
-Testing algorithms to generate primenumbers
+ _________________________
+< bilious-moo-primenumber >
+ -------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
